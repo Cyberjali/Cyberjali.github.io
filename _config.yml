@@ -42,9 +42,9 @@ collections:
    pages:
       output: true
       permalink: /:name
-   writeups:
+   postępy:
       output: true
-   solutions:
+   rozwój:
       output: true
-   blog:
+   JawlScanner:
       output: true
