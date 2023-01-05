@@ -10,11 +10,12 @@ Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności
 [JawlScanner](./Jawlscanner.md).
 * lorem
 [Postępy](./Postępy.md).
+
 # Skąd ten pomysł?
 
 Pomysł na jej stworzenie pochodzi z chęci zaprezentowania moich umiejętności z zakresu redteamu i pentestingu, a także miejsca, w którym będę mógł prezentować swoje doświadczenie i projekty z tej dziedziny. 
 
-## lorem
+## Kim jestem?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla magna sapien, convallis non velit euismod, sagittis dapibus libero. Duis molestie, quam nec cursus convallis, nunc augue ultricies nunc, in lobortis dolor elit gravida est. Duis eget fringilla ex. Donec commodo erat non nisi ultricies pretium. Morbi volutpat enim eget arcu luctus, quis mollis ex efficitur. Aenean nec auctor urna. Nulla tincidunt metus id vestibulum faucibus. Cras finibus sit amet purus et vehicula.
 
