@@ -17,7 +17,7 @@ Pomysł na  stworzenie strony internetowej pochodzi z chęci zaprezentowania moi
 
 # Kim jestem?
 
-
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur et officia esse fugit corrupti tempora inventore sed aliquam voluptas ipsam, quasi expedita blanditiis autem eos ipsa sequi non neque natus?
 
 
 # Kontakt
