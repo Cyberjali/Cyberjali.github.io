@@ -4,8 +4,11 @@ layout: default
 
 # Witaj przyjacielu!
 
-Jestem entuzjastą bezpieczeństwa cybernetycznego i ciągle poszerzam swoje umiejętności w tej dziedzinie. Na mojej stronie internetowej chętnie dzielę się moimi postępami i osiągnięciami, i układam to w poszczególne kategorie, takie jak:
-
+Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności w tej dziedzinie. Na mojej stronie internetowej chętnie dzielę się moimi postępami i osiągnięciami, i układam to w poszczególne kategorie, takie jak:
+[Link to another page](./writeups.html).
+* lorem
+[Link to another page](./writeups.html).
+* lorem
 
 # Skąd ten pomysł?
 
@@ -21,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit am
 
 # Kontakt
 
->Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego [Linkedina](./https://pl.linkedin.com/in/jakub-lipi%C5%84ski),Chętnie odpowiem na Twoje pytania i udzielę więcej informacji o swojej działalności. Do zobaczenia!
+>Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego [Linkedina],Chętnie odpowiem na Twoje pytania i udzielę więcej informacji o swojej działalności. Do zobaczenia!
 
 
 # ...........................................................................................................................................
