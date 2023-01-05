@@ -4,7 +4,7 @@ layout: default
 
 # Witaj przyjacielu!
 
-Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności w tej dziedzinie. Moja strona internetowa jest miejscem, w którym chętnie dzielę się swoimi postępami i osiągnięciami, które układam w poszczególne kategorie, takie jak:
+Jestem entuzjastą cyberbezpieczeństwa i ciągle powiększam swoje umiejętności w tej ciekawiej dziedzinie. Moja strona internetowa jest miejscem, w którym chętnie dzielę się swoimi postępami i osiągnięciami, które układam w poszczególne kategorie, takie jak:
 
 * lorem
 [JawlScanner](./Jawlscanner.md).
