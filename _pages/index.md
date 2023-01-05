@@ -12,7 +12,7 @@ Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności
 [Postępy](./Postępy.md).
 # Skąd ten pomysł?
 
-Pomysł na jej stworzenie pochodzi z chęci zaprezentowania moich umiejętności z zakresu redteamu i pentestingu, a także miejsca, w którym będę mógł prezentować swoje doświadczenie i projekty z tej dziedziny. Wierzę, że dzięki mojej stronie będę mógł lepiej promować swoje umiejętności i zdobyć nowe możliwości rozwoju zawodowego.
+Pomysł na jej stworzenie pochodzi z chęci zaprezentowania moich umiejętności z zakresu redteamu i pentestingu, a także miejsca, w którym będę mógł prezentować swoje doświadczenie i projekty z tej dziedziny. 
 
 ## lorem
 
