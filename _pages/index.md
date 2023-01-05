@@ -13,7 +13,7 @@ Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności
 
 # Skąd ten pomysł?
 
-Pomysł na jej stworzenie pochodzi z chęci zaprezentowania moich umiejętności z zakresu redteamu i pentestingu, a także miejsca, w którym będę mógł prezentować swoje doświadczenie i projekty z tej dziedziny. 
+Pomysł na  stworzenie strony internetowej pochodzi z chęci zaprezentowania moich umiejętności z zakresu redteamu i pentestingu, a także miejsca, w którym będę mógł prezentować swoje doświadczenie i projekty z tej dziedziny. 
 
 ## Kim jestem?
 
