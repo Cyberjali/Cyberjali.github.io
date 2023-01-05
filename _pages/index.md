@@ -4,30 +4,23 @@ layout: default
 
 # Witaj przyjacielu!
 
-Strona powstała, abym w jednym miejscu mógł umieszczać swój dzienny postęp w rozwijaniu umiejętności związanych z cyberbezpieczeństwem. Jeśli masz ochotę razem ze mną podjąć wyzwanie codziennego rozwoju we wspomnianym kierunku to mam dla Ciebie dobre wieśći.. Codziennie w [notatkach](./notes.html) będzie pojawiać się masa linków, z których korzystałem do nauki różnych ciekawych tematów bądź z których korzystałem do powtórzenia tego co już potrafię. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla magna sapien, convallis non velit euismod, sagittis dapibus libero. Duis molestie, quam nec cursus convallis, nunc augue ultricies nunc, in lobortis dolor elit gravida est. Duis eget fringilla ex. Donec commodo erat non nisi ultricies pretium. Morbi volutpat enim eget arcu luctus, quis mollis ex efficitur. Aenean nec auctor urna. Nulla tincidunt metus id vestibulum faucibus. Cras finibus sit amet purus et vehicula.
 
 # Skąd ten pomysł?
 
-Przed stworzeniem tego miejsca zrobiłem wewnętrzny rachunek sumienia moich umiejętności i tak oto powstał poniższy wykres:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla magna sapien, convallis non velit euismod, sagittis dapibus libero. Duis molestie, quam nec cursus convallis, nunc augue ultricies nunc, in lobortis dolor elit gravida est. Duis eget fringilla ex. Donec commodo erat non nisi ultricies pretium. Morbi volutpat enim eget arcu luctus, quis mollis ex efficitur. Aenean nec auctor urna. Nulla tincidunt metus id vestibulum faucibus. Cras finibus sit amet purus et vehicula.
 
-![Branching](https://raw.githubusercontent.com/miblax/index/master/assets/images/css.png)
+## lorem
 
-Jak widać, moją silną stroną jest hackowanie aplikacji webowych. Kolejnymi mocniejszymi umiejętnościami są: hackowanie systemów (głównie Linux), programowanie (głównie python) oraz hackowanie Androida. Z innych zagadnień mam pewną wiedzę, jednak zdaję sobie sprawę ze swoich ograniczeń w tych tematach (również w tematach, w których czuję się silny), a część wiedzy poprostu trzeba odkurzyć. Dlatego powstał ten mini challenge, w którym będę rozwijał się z wymienionych na wykresie obszarów :)
-
-## Poziomy wiedzy
-
-*   do 25pkt - N00b
-*   do 50pkt - Script Kiddie
-*   do 75pkt - Hax0r
-*   do 99pkt - 31337
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla magna sapien, convallis non velit euismod, sagittis dapibus libero. Duis molestie, quam nec cursus convallis, nunc augue ultricies nunc, in lobortis dolor elit gravida est. Duis eget fringilla ex. Donec commodo erat non nisi ultricies pretium. Morbi volutpat enim eget arcu luctus, quis mollis ex efficitur. Aenean nec auctor urna. Nulla tincidunt metus id vestibulum faucibus. Cras finibus sit amet purus et vehicula.
 
 ### Dlaczego nie ma w poziomach 100pkt?
 
-Nie sądzę, że ktoś wie wszystko z danego obszaru :D
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 # Kontakt
 
->Jeśli chcesz porozmawiać na jakiś temat na pewno uda Ci się znaleźć kontakt do mnie :) 
+>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 
 # ...........................................................................................................................................
