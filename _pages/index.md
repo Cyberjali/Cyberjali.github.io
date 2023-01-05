@@ -5,9 +5,9 @@ layout: default
 # Witaj przyjacielu!
 
 Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności w tej dziedzinie. Na mojej stronie internetowej chętnie dzielę się moimi postępami i osiągnięciami, i układam to w poszczególne kategorie, takie jak:
-[Postępy](./postepy.md).
+[Postępy](./Postępy.md).
 * lorem
-[JawlScanner](./jawlscanner.md).
+[JawlScanner](./Jawlscanner.md).
 * lorem
 
 # Skąd ten pomysł?
