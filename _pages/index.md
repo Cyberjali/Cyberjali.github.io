@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit am
 
 # Kontakt
 
->Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego profilu na LinkedIn. Tam chętnie odpowiem na Twoje pytania i udzielę więcej informacji o mojej działalności. Do zobaczenia!
+>Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego profilu na `Linkedin`. Tam chętnie odpowiem na Twoje pytania i udzielę więcej informacji o mojej działalności. Do zobaczenia!
 
 
 # ...........................................................................................................................................
