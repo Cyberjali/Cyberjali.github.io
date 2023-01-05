@@ -5,11 +5,11 @@ layout: default
 # Witaj przyjacielu!
 
 Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności w tej dziedzinie. Na mojej stronie internetowej chętnie dzielę się moimi postępami i osiągnięciami, i układam to w poszczególne kategorie, takie jak:
-[Postępy](./Postępy.md).
+
 * lorem
 [JawlScanner](./Jawlscanner.md).
 * lorem
-
+[Postępy](./Postępy.md).
 # Skąd ten pomysł?
 
 Stworzenie strony było dla mnie sposobem na zaprezentowanie swoich umiejętności z zakresu redteamu, pentestingu. Chciałem mieć miejsce, w którym będę mógł prezentować swoje doświadczenie i projekty, które realizowałem w tej dziedzinie. Wierzę, że dzięki takiej stronie będę mógł lepiej promować swoje umiejętności i zdobyć nowe możliwości rozwoju zawodowego.
