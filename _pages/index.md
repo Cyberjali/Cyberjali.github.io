@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit am
 
 # Kontakt
 
->Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego [Linkedina](shttps://pl.linkedin.com/in/jakub-lipi%C5%84ski),Chętnie odpowiem na Twoje pytania i udzielę więcej informacji o swojej działalności. Do zobaczenia!
+>Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego [Linkedina](./https://pl.linkedin.com/in/jakub-lipi%C5%84ski),Chętnie odpowiem na Twoje pytania i udzielę więcej informacji o swojej działalności. Do zobaczenia!
 
 
 # ...........................................................................................................................................
