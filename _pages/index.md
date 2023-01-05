@@ -2,160 +2,32 @@
 layout: default
 ---
 
-# Hello World!
+# Witaj przyjacielu!
+
+Strona powstała, abym w jednym miejscu mógł umieszczać swój dzienny postęp w rozwijaniu umiejętności związanych z cyberbezpieczeństwem. Jeśli masz ochotę razem ze mną podjąć wyzwanie codziennego rozwoju we wspomnianym kierunku to mam dla Ciebie dobre wieśći.. Codziennie w [notatkach](./notes.html) będzie pojawiać się masa linków, z których korzystałem do nauki różnych ciekawych tematów bądź z których korzystałem do powtórzenia tego co już potrafię. 
+
+# Skąd ten pomysł?
+
+Przed stworzeniem tego miejsca zrobiłem wewnętrzny rachunek sumienia moich umiejętności i tak oto powstał poniższy wykres:
+
+![Branching](https://raw.githubusercontent.com/miblax/index/master/assets/images/css.png)
+
+Jak widać, moją silną stroną jest hackowanie aplikacji webowych. Kolejnymi mocniejszymi umiejętnościami są: hackowanie systemów (głównie Linux), programowanie (głównie python) oraz hackowanie Androida. Z innych zagadnień mam pewną wiedzę, jednak zdaję sobie sprawę ze swoich ograniczeń w tych tematach (również w tematach, w których czuję się silny), a część wiedzy poprostu trzeba odkurzyć. Dlatego powstał ten mini challenge, w którym będę rozwijał się z wymienionych na wykresie obszarów :)
+
+## Poziomy wiedzy
+
+*   do 25pkt - N00b
+*   do 50pkt - Script Kiddie
+*   do 75pkt - Hax0r
+*   do 99pkt - 31337
+
+### Dlaczego nie ma w poziomach 100pkt?
+
+Nie sądzę, że ktoś wie wszystko z danego obszaru :D
+
+# Kontakt
+
+>Jeśli chcesz porozmawiać na jakiś temat na pewno uda Ci się znaleźć kontakt do mnie :) 
 
 
-
-
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./writeups.html).
-
-There should be whitespace between paragraphs.
-
-There shoulZd be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-<pre 
-  class="command-line" 
-  data-prompt="kali@kali $" 
-  data-output="4"
-><code class="language-bash"># Bash script with shell
-echo "flag{i_4m_a_f14g}" > flag.txt
-cat flag.txt
-flag{i_4m_a_f14g}
-rm flag.txt</code>
-</pre> 
-
-<pre class="line-numbers" 
-  data-start="1" 
-  data-line="6-7"
-><code class="language-dart">// Dart code with line numbers
-// Line 6 and 7 are highlighted
-
-import 'dart:ui';
-
-import 'package:shared_preferences_web/shared_preferences_web.dart';
-import 'package:url_launcher_web/url_launcher_web.dart';
-
-import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-
-// ignore: public_member_api_docs
-void registerPlugins(PluginRegistry registry) {
-  SharedPreferencesPlugin.registerWith(registry.registrarFor(SharedPreferencesPlugin));
-  UrlLauncherPlugin.registerWith(registry.registrarFor(UrlLauncherPlugin));
-  registry.registerMessageHandler();
-}</code></pre>
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# ...........................................................................................................................................
