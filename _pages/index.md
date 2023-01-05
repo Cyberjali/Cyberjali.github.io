@@ -7,9 +7,9 @@ layout: default
 Jestem entuzjastą cyberbezpieczeństwa i ciągle powiększam swoje umiejętności w tej ciekawiej dziedzinie. Moja strona internetowa jest miejscem, w którym chętnie dzielę się swoimi postępami i osiągnięciami, które układam w poszczególne kategorie, takie jak:
 
 * lorem
-[JawlScanner](./jJawlScanner.html).
+[JawlScanner](./jawlscanner.html).
 * lorem
-[Postępy](./Postępy.html).
+[Postępy](./notes.html).
 
 # Skąd ten pomysł?
 
