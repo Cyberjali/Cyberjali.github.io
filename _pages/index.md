@@ -4,7 +4,7 @@ layout: default
 
 # Witaj przyjacielu!
 
-Jestem entuzjastą cyberbezpieczeństwa i ciągle powiększam swoje umiejętności w tej ciekawiej dziedzinie. Moja strona internetowa jest miejscem, w którym chętnie dzielę się swoimi postępami i osiągnięciami, które układam w poszczególne kategorie, takie jak:
+Jestem entuzjastą cyberbezpieczeństwa i ciągle rozwijam swoje umiejętności w tej fascynującej dziedzinie. Na mojej stronie internetowej dzielę się moimi postępami i osiągnięciami, które uporządkowałem w różne kategorie, takie jak:
 
 * lorem
 [JawlScanner](./jawlscanner.html).
@@ -22,7 +22,8 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur et officia 
 
 # Kontakt
 
->Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego profilu na `Linkedin`. Tam chętnie odpowiem na Twoje pytania i udzielę więcej informacji o mojej działalności. Do zobaczenia!
+>Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego profilu na `Linkedin`. Tam chętnie odpowiem na Twoje pytania i udzielę więcej informacji o mojej działalności. 
+Do zobaczenia!
 
 
 # ...........................................................................................................................................
