@@ -4,7 +4,7 @@ layout: default
 
 # Witaj przyjacielu!
 
-Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności w tej dziedzinie. Na mojej stronie internetowej chętnie dzielę się moimi postępami i osiągnięciami, i układam to w poszczególne kategorie, takie jak:
+Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności w tej dziedzinie. Moja strona internetowa jest miejscem, w którym chętnie dzielę się swoimi postępami i osiągnięciami, które układam w poszczególne kategorie, takie jak:
 
 * lorem
 [JawlScanner](./Jawlscanner.md).
@@ -12,7 +12,7 @@ Jestem entuzjastą cyberbezpieczeństwa i ciągle poszerzam swoje umiejętności
 [Postępy](./Postępy.md).
 # Skąd ten pomysł?
 
-Stworzenie strony było dla mnie sposobem na zaprezentowanie swoich umiejętności z zakresu redteamu, pentestingu. Chciałem mieć miejsce, w którym będę mógł prezentować swoje doświadczenie i projekty, które realizowałem w tej dziedzinie. Wierzę, że dzięki takiej stronie będę mógł lepiej promować swoje umiejętności i zdobyć nowe możliwości rozwoju zawodowego.
+Pomysł na jej stworzenie pochodzi z chęci zaprezentowania moich umiejętności z zakresu redteamu i pentestingu, a także miejsca, w którym będę mógł prezentować swoje doświadczenie i projekty z tej dziedziny. Wierzę, że dzięki mojej stronie będę mógł lepiej promować swoje umiejętności i zdobyć nowe możliwości rozwoju zawodowego.
 
 ## lorem
 
@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit am
 
 # Kontakt
 
->Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego Linkedina ,Chętnie odpowiem na Twoje pytania gdzie udzielę więcej informacji o swojej działalności. Do zobaczenia!
+>Jeśli jesteś zainteresowany skontaktowaniem się ze mną, zapraszam Cię do odwiedzenia mojego profilu na LinkedIn. Tam chętnie odpowiem na Twoje pytania i udzielę więcej informacji o mojej działalności. Do zobaczenia!
 
 
 # ...........................................................................................................................................
