@@ -6,7 +6,7 @@ layout: default
 
 Jestem entuzjastą cyberbezpieczeństwa i ciągle rozwijam swoje umiejętności w tej fascynującej dziedzinie. Na mojej stronie internetowej dzielę się moimi postępami i osiągnięciami, które uporządkowałem w różne kategorie, takie jak:
 
-*Na tej podstronie będę się chwalił swoimi osiągnięciami w nauce, a także opisywał czynności, które wykonuję każdego dnia. Będę regularnie aktualizował tę stronę z informacjami o nowych umiejętnościach które zdobyłem. Dzięki temu będę miał świetną okazję do utrwalenia wiedzy i dzielenia się nią z innymi. Zapraszam do śledzenia moich postępów i do dzielenia się swoimi przemyśleniami! zmien ten tekst napisz lepiej
+Na tej podstronie będę się chwalił swoimi osiągnięciami w nauce, a także opisywał czynności, które wykonuję każdego dnia. Będę regularnie aktualizował tę stronę z informacjami o nowych umiejętnościach które zdobyłem. Dzięki temu będę miał świetną okazję do utrwalenia wiedzy i dzielenia się nią z innymi. Zapraszam do śledzenia moich postępów i do dzielenia się swoimi przemyśleniami! zmien ten tekst napisz lepiej
 [JawlScanner](./jawlscanner.html).
 * Jeden z moich projektów napisany w pythonie, który ma na celu wykonanie rekonansu strony, zachęcam do zajrzenia, aby przeczytać cały mój zamysł!
 [Postępy](./notes.html).
