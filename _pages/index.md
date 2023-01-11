@@ -23,4 +23,4 @@ Pomysł na  stworzenie strony internetowej pochodzi z chęci zaprezentowania moi
 Do zobaczenia!
 
 
-# 
+# ...........................................................................................................................................
