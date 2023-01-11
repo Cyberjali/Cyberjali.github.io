@@ -8,7 +8,7 @@ Jestem entuzjastą cyberbezpieczeństwa i ciągle rozwijam swoje umiejętności 
 
 * Na tej podstronie będę się chwalił swoimi osiągnięciami w nauce, a także opisywał czynności, które wykonuję każdego dnia. Będę regularnie aktualizował tę stronę z informacjami o nowych umiejętnościach które zdobyłem. Dzięki temu będę miał świetną okazję do utrwalenia wiedzy i dzielenia się nią z innymi. Zapraszam do śledzenia moich postępów i do dzielenia się swoimi przemyśleniami! zmien ten tekst napisz lepiej
 [JawlScanner](./jawlscanner.html).
-* Jeden z moich projektów napisany w pythonie, który ma na celu wykonanie rekonansu strony, zachęcam do zajrzenia, aby przeczytać cały mój zamysł!
+*   Druga podstrona jest związana z moim projektem, jest to narzędzie do rekonesansu stron internetowych napisane w języku Python. Celem projektu jest skrupulatne przeskanowanie strony w celu zidentyfikowania potencjalnych luk zabezpieczeń. Zachęcam do zajrzenia na tę podstronę i poznania szczegółów dotyczących mojego projektu.
 [Postępy](./notes.html).
 
 # Skąd ten pomysł?
