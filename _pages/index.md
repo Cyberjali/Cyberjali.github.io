@@ -16,10 +16,6 @@ Jestem entuzjastą cyberbezpieczeństwa i ciągle rozwijam swoje umiejętności 
 
 Pomysł na  stworzenie strony internetowej pochodzi z chęci zaprezentowania moich umiejętności z zakresu redteamu i pentestingu, a także miejsca, w którym będę mógł prezentować swoje doświadczenie i projekty z tej dziedziny. 
 
-# Kim jestem?
-
-Mam na imię Jakub, mówią na mnie cyberjali, stąd że interesuję się 
-
 
 # Kontakt
 
